@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts in bash.
+Schell Scripts in bash language.
